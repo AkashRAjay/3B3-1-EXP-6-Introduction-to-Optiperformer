@@ -75,7 +75,8 @@ The system includes:
 |      |                   |                        |                      |              |         |             |                                     |
 
 ---
-<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/3860d44c-6984-49f6-acc6-e9fd1d83d3b6" />
+![IMG_20260325_153237_1](https://github.com/user-attachments/assets/4f208fb3-9a65-44ee-aa8a-9d91b156f1c6)
+
 
 ## Graphs
 <img width="1388" height="1600" alt="image" src="https://github.com/user-attachments/assets/51a817c1-4712-4c18-b58f-2a6f546b7b9a" />
